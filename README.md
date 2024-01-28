@@ -1,5 +1,8 @@
 # moex-xml-api
 
+Чтобы получить данные из гугл-таблицы, нужно чтобы в настройках региона стояла "Россия"
+[Google таблица](https://docs.google.com/spreadsheets/d/1c7akGp4hwZpsmysTj_YQ4U8zGnNBllEWy-EpRW0UTDU/edit?usp=sharing)
+
 ## Облигации
 ### TQCB
 Получение списка облигаций с процентом к номиналу
